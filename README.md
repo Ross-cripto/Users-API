@@ -43,7 +43,7 @@ API desarrollada en NestJS utilizando Prisma ORM y MongoDB, con autenticación J
 npm run start:dev
 ```
 
-La API estará disponible en http://localhost:{PORT}.
+La API estará disponible en http://localhost:{PORT}/api.
 
 ### 📘 Documentación de la API
 
