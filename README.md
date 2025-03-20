@@ -13,8 +13,8 @@ API desarrollada en NestJS utilizando Prisma ORM y MongoDB, con autenticación J
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <DIRECTORIO_DEL_PROYECTO>
+   git clone git@github.com:Ross-cripto/Users-API.git
+   cd Users-API
    ```
 
 2. **Instalar dependencias:**
